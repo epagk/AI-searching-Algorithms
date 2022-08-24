@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AI_firstPart</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/myPackage/Cell.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/%CE%95%CF%84%CE%BF%CF%82_4%CE%BF/%CE%A4%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE%20%CE%9D%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82/Cell.java</locationURI>
+		</link>
+		<link>
+			<name>src/myPackage/Drawing.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/%CE%95%CF%84%CE%BF%CF%82_4%CE%BF/%CE%A4%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE%20%CE%9D%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82/Drawing.java</locationURI>
+		</link>
+		<link>
+			<name>src/myPackage/Grid.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/%CE%95%CF%84%CE%BF%CF%82_4%CE%BF/%CE%A4%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE%20%CE%9D%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82/Grid.java</locationURI>
+		</link>
+		<link>
+			<name>src/myPackage/GridGenerator.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Documents/%CE%95%CF%84%CE%BF%CF%82_4%CE%BF/%CE%A4%CE%B5%CF%87%CE%BD%CE%B7%CF%84%CE%AE%20%CE%9D%CE%BF%CE%B7%CE%BC%CE%BF%CF%83%CF%8D%CE%BD%CE%B7/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82/GridGenerator.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
